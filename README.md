@@ -13,7 +13,7 @@ The problem statement is to create a Streamlit application that allows users to 
 and analyze data from multiple YouTube channels
 
 
-
+![home](https://github.com/beingbvh/YouTube-Data-Harvesting-and-Warehousing/assets/135937352/7178f5e3-4174-4e48-882b-d66ded399104)
 
 
 # APPROACH:
@@ -77,12 +77,17 @@ and analyze data from multiple YouTube channels
 * Enter the **channel id** in the **Enter the Channel id** input box in **COLLECT TAB**
 * After entering the channel id, click on the **Retrieve and Store data** button to retrieve and store data to MongoDB.
 
+![collect zone](https://github.com/beingbvh/YouTube-Data-Harvesting-and-Warehousing/assets/135937352/01d12058-1500-4ecf-8c89-e385901118d7)
+
 **EXTRACT TAB**
 
 * The retrieved channel name appears in the dropdown in the extract tab.
 * Select the channel
 * Click on the **Migrate to MySQL** button.
 * Data will be migrated from MongoDB to MySQL.
+
+![Migrate zone](https://github.com/beingbvh/YouTube-Data-Harvesting-and-Warehousing/assets/135937352/cbb986c3-1c0e-4f85-a3ba-526dc41b0b54)
+
 
 ## STEP 3 : ANALYSIS ZONE
 
@@ -94,6 +99,9 @@ and analyze data from multiple YouTube channels
 * Queries were displayed in the dropdown
 * **Select the queries** in the dropdown
 * Results were displayed based on the analysis done.
+
+![query zone](https://github.com/beingbvh/YouTube-Data-Harvesting-and-Warehousing/assets/135937352/b95227a1-0624-42a1-8dff-5d058f2f10bd)
+
 
 # RESULT:
   Developing a user-friendly **Streamlit application** that enables users to search for channel details and join tables to **view data in the Streamlit app.**
