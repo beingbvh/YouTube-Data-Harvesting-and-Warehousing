@@ -3,10 +3,10 @@
 
 
 # PROJECT TITLE :
-YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit
+**YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit**
 
 # DOMAIN : 
-SOCIAL MEDIA
+**SOCIAL MEDIA**
 
 # PROBLEM STATEMENT:
 The problem statement is to create a Streamlit application that allows users to access
