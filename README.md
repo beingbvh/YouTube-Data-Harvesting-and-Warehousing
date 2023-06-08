@@ -13,7 +13,8 @@ The problem statement is to create a Streamlit application that allows users to 
 and analyze data from multiple YouTube channels
 
 
-![home](https://github.com/beingbvh/YouTube-Data-Harvesting-and-Warehousing/assets/135937352/7178f5e3-4174-4e48-882b-d66ded399104)
+![homenew](https://github.com/beingbvh/YouTube-Data-Harvesting-and-Warehousing/assets/135937352/05c7b162-a270-41ce-ba53-b6b282919a76)
+
 
 
 # APPROACH:
