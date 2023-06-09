@@ -107,5 +107,5 @@ and analyze data from multiple YouTube channels
 # RESULT:
   Developing a user-friendly **Streamlit application** that enables users to search for channel details and join tables to **view data in the Streamlit app.**
  
-**DEMO VIDEO :**https://www.linkedin.com/feed/update/urn:li:ugcPost:7072515437875351552/
+**DEMO VIDEO** : https://www.linkedin.com/feed/update/urn:li:ugcPost:7072515437875351552/
 
